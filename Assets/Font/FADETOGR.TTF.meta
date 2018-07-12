@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0a63803a79aaba14ea2f3de22434b3b6
+timeCreated: 1527394522
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fade to grey
+  fontNames:
+  - Fade to grey
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

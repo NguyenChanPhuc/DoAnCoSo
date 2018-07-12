@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 56ffe236c6c1c97489426889336e6c63
+timeCreated: 1527394522
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Gushing Meadow
+  fontNames:
+  - SF Gushing Meadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 70a89a54c6ed0cf48a28e092df868b5e
+timeCreated: 1527394124
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Catwalk
+  fontNames:
+  - Catwalk
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
